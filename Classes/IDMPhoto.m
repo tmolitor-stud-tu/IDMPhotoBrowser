@@ -8,7 +8,7 @@
 
 #import "IDMPhoto.h"
 #import "IDMPhotoBrowser.h"
-#import <YYWebImageManager.h>
+#import "YYWebImageManager.h"
 
 // Private
 @interface IDMPhoto () {
